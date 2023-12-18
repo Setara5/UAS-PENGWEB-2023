@@ -19,3 +19,6 @@ Untuk memperkuat keamanan aplikasi web, SSL Certificates bisa digunakan. Namun, 
 
 # Konfigurasi server yang diterapkan untuk mendukung aplikasi web.
 Untuk konfigurasi server bisa dilakukan pada web hosting, tapi karena menggunakan web hosting gratis diberikan spesifikasi terbatas
+
+#Test dengan localhost
+http://localhost/phpcrud/read.php
