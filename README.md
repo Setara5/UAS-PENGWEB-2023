@@ -1,7 +1,7 @@
 # Identitas
-Nama : Ferreyla Setara Ibn
-NIM : 1211402207
-Kelas : RA
+Nama : Ferreyla Setara Ibn <br>
+NIM : 1211402207 <br>
+Kelas : RA 
 
 # Langkah dilakukan untuk meng-host aplikasi web
 1. Registrasi akun pada layanan web hosting (pembuatan akun dan pendaftaran domain web).
